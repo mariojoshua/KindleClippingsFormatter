@@ -1,4 +1,4 @@
-# How to Download and process your notes from kindle
+# How to Process your notes from kindle using Excel
 
 1. Go to Kindle in File Explorer > Documents > MyClippings > Clippings.txt and copy the file to your local disk
 2. Open Excel > Data Tab > Get External Data > From Text > Select Clippings.txt. > Import data > Clippings.txt
@@ -99,6 +99,7 @@ End Sub
 
 5. Go to Macros and Press Run, All the columns should get sorted, add appropriate naming and delete empty columns.
 6.Viola! You have you data and can filter it based on book. 
+![Screenshot 2022-03-23 at 5 54 21 PM](https://user-images.githubusercontent.com/75271182/159698556-a871c2d8-c205-46ea-b26d-5c042b3a56ff.png)
 
 P.S.
 If Developer Tab is not enabled, go to preference/settings > ribbon & toolbar > Main Tabs > Check the Developer column and save.
