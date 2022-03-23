@@ -98,7 +98,7 @@ End Sub
 ```
 
 5. Go to Macros and Press Run, All the columns should get sorted, add appropriate naming and delete empty columns.
-6. Viola! You have you data and can filter it based on book. 
+6. Voila! You have you data and can filter it based on book. 
 ![Screenshot 2022-03-23 at 5 54 21 PM](https://user-images.githubusercontent.com/75271182/159698556-a871c2d8-c205-46ea-b26d-5c042b3a56ff.png)
 
 P.S.
