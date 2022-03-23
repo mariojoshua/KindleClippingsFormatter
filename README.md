@@ -7,7 +7,7 @@
 4. Run the below VBA code by going to Developer Tab > Visual Basic > Insert Module > Paste the below code there and press the save button.
 
 ```vb
-Sub Trans6()
+Sub KindleClippingsFormatter()
 Static rngA As Range
 Static I As Long
 Static lookVal As String
